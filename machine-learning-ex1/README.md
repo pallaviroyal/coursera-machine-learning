@@ -7,7 +7,7 @@ Have to use this data to select which city to expand to next.
 ### Dataset
 * Feature : x (Citi population)
 * Targetvariable : y (Profit)
-* Dataset size :
+* Dataset size : 97 datapoints (x,y)
 
 ### Plotting the data
 Below code written in [ex1.m](ex1/ex1.m#L40)
