@@ -25,6 +25,8 @@ xlabel('Population of City in 10,000s');
 ```
 <img src="ex1/results/data_visualization.png" alt="ex1/results/data_visualization.png"></img>
 ## Gradient Descent 
+<img src="ex1/results/cost_function.jpg" alt="ex1/results/cost_function.jpg" weight="300px" height="300px"></img>
+<img src="ex1/results/cost_function_1.jpg" alt="ex1/results/cost_function_1.jpg" weight="300px" height="300px"></img>
 ![ex1/results/cost_function.jpg](ex1/results/cost_function.jpg)
 ![ex1/results/cost_function_1.jpg](ex1/results/cost_function_1.jpg)
 
