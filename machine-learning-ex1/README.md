@@ -23,10 +23,7 @@ ylabel('Profit in $10,000s');
 xlabel('Population of City in 10,000s');
 
 ```
-
-
-## Data Visualization
-![ex1/results/data_visualization.png](ex1/results/data_visualization.png)
+<img src="ex1/results/data_visualization.png" alt="ex1/results/data_visualization.png"></img>
 ## Gradient Descent 
 ![ex1/results/cost_function.jpg](ex1/results/cost_function.jpg)
 ![ex1/results/cost_function_1.jpg](ex1/results/cost_function_1.jpg)
