@@ -3,6 +3,8 @@ Machine Learning course given by Andrew Ng from Stanford University
 
 ## Machine Learning 
 
+Giving human experience to machine in the form of data, let machine to learn from the data which we have given and perform the task and measure the performance. Loop this process untill machine can get a intelligence to perform given task as a human. - my words 
+
 A computer program said to be learn from experience E with respective to class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E. - Tom Mitchell 
 
 ```
